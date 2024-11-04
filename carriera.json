@@ -1,0 +1,13 @@
+[
+    { "idGiocatore": 1, "idSquadra": 1, "anno": 2020 },
+    { "idGiocatore": 1, "idSquadra": 2, "anno": 2021 },
+    { "idGiocatore": 2, "idSquadra": 1, "anno": 2019 },
+    { "idGiocatore": 3, "idSquadra": 2, "anno": 2020 },
+    { "idGiocatore": 4, "idSquadra": 2, "anno": 2021 },
+    { "idGiocatore": 5, "idSquadra": 3, "anno": 2020 },
+    { "idGiocatore": 6, "idSquadra": 3, "anno": 2021 },
+    { "idGiocatore": 7, "idSquadra": 4, "anno": 2020 },
+    { "idGiocatore": 8, "idSquadra": 4, "anno": 2021 },
+    { "idGiocatore": 9, "idSquadra": 5, "anno": 2022 },
+    { "idGiocatore": 10, "idSquadra": 5, "anno": 2023 }
+]

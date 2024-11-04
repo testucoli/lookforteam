@@ -1,0 +1,12 @@
+[
+    { "idGiocatore": 1, "idSquadra": 1, "nomeGiocatore": "Cristiano", "cognomeGiocatore": "Ronaldo" },
+    { "idGiocatore": 2, "idSquadra": 1, "nomeGiocatore": "Paulo", "cognomeGiocatore": "Dybala" },
+    { "idGiocatore": 3, "idSquadra": 2, "nomeGiocatore": "Romelu", "cognomeGiocatore": "Lukaku" },
+    { "idGiocatore": 4, "idSquadra": 2, "nomeGiocatore": "Lautaro", "cognomeGiocatore": "Martínez" },
+    { "idGiocatore": 5, "idSquadra": 3, "nomeGiocatore": "Zlatan", "cognomeGiocatore": "Ibrahimović" },
+    { "idGiocatore": 6, "idSquadra": 3, "nomeGiocatore": "Theo", "cognomeGiocatore": "Hernández" },
+    { "idGiocatore": 7, "idSquadra": 4, "nomeGiocatore": "Edin", "cognomeGiocatore": "Džeko" },
+    { "idGiocatore": 8, "idSquadra": 4, "nomeGiocatore": "Henrikh", "cognomeGiocatore": "Mkhitaryan" },
+    { "idGiocatore": 9, "idSquadra": 5, "nomeGiocatore": "Victor", "cognomeGiocatore": "Osimhen" },
+    { "idGiocatore": 10, "idSquadra": 5, "nomeGiocatore": "Khvicha", "cognomeGiocatore": "Kvaratskhelia" }
+]

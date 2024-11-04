@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calciomercato</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="dati.js" defer></script>
+    <script src="script.js" defer></script>
+</head>
+<body>
+    <div class="container">
+        <h1>Calciomercato</h1>
+        <label for="teamSelect">Seleziona una squadra:</label>
+        <select id="teamSelect">
+            <option value="">-- Seleziona una squadra --</option>
+        </select>
+        
+        <label for="playerSelect">Seleziona un giocatore:</label>
+        <select id="playerSelect" disabled>
+            <option value="">-- Seleziona un giocatore --</option>
+        </select>
+
+        <h2>Carriera del giocatore:</h2>
+        <ul id="careerList"></ul>
+    </div>
+</body>
+</html>
