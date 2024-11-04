@@ -6,7 +6,7 @@ $(document).ready(function () {
         });
     });
 
-    // Gestisci la selezione della squadra
+    // Gestisce la selezione della squadra
     $('#teamSelect').change(function () {
         const selectedTeamId = $(this).val();
         $('#playerSelect').empty().append('<option value="">-- Seleziona un giocatore --</option>').prop('disabled', true);
@@ -23,7 +23,7 @@ $(document).ready(function () {
         }
     });
 
-    // Gestisci la selezione del giocatore
+    // Gestisce la selezione del giocatore
     $('#playerSelect').change(function () {
         const selectedPlayerId = $(this).val();
         $('#careerList').empty();
